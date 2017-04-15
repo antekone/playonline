@@ -36,6 +36,11 @@
 # - skrypt jest pisany na moje potrzeby więc prawdopodobnie nie będzie tobie
 #   działał w idealny sposób, ale po to go udostępniam aby go sobie zmienić ;)
 #
+# - przykładowy setup: wrzucić do cron'a raz dziennie i skonfigurować wysyłanie
+#   maili.
+#
+# - testowane tylko na openbsd 6.1.
+#
 # gl hf
 
 require 'mechanize'
